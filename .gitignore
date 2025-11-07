@@ -1,0 +1,30 @@
+# Node modules
+node_modules/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Jest output
+coverage/
+.jest-cache/
+.jest/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Env files
+.env
+.env.local
+.env.*.local
+
+# Editor folders
+.vscode/
+.idea/
+
+# Build output (if added later)
+dist/
+build/
